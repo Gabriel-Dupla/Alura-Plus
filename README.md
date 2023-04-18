@@ -2,7 +2,7 @@
 
 <div>
   <p align="center">
-    <img alt="Status do projeto com os dizeres: Concluído" src="https://img.shields.io/static/v1?label=Status&message=Em desenvolvimento &color=green">
+    <img alt="Status do projeto com os dizeres: Concluído" src="https://img.shields.io/static/v1?label=Status&message=Concluído &color=green">
   </p>
 </div>
 
